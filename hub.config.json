@@ -4,6 +4,7 @@
 {
     "type": "longrange",
     "name": "Active",
+    "showOnHubLoad": true,
     "url": "https://raw.githubusercontent.com/CatonaO/WashUhub/main/washU_interactions_Active.sorted.bed.gz",
     "options": {
         "height": 200,
@@ -20,6 +21,7 @@
 {
     "type": "longrange",
     "name": "Poised",
+    "showOnHubLoad": true,
     "url": "https://raw.githubusercontent.com/CatonaO/WashUhub/main/washU_interactions_Poised.sorted.bed.gz",
     "options": {
         "height": 200,

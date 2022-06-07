@@ -31,23 +31,6 @@
     }
 
     
-},
-{
-    "type": "biginteract",
-    "name": "Active",
-    "showOnHubLoad": true,
-    "url": "https://raw.githubusercontent.com/CatonaO/test/main/Act_int_for_UCSC_Browser.bb",
-    "options": {
-        "height": 200,
-        "displayMode": "arc",
-        "scoreScale": "fixed",
-        "scoreMax": 1,
-        "scoreMin": 0
-
-    }
-
-
-    
-}    
+} 
 
 ]

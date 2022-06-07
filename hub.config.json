@@ -1,17 +1,4 @@
 [
-
-    {
-        "AllowedHeaders": [
-            "*"
-        ],
-        "AllowedMethods": [
-            "GET",
-            "HEAD"
-        ],
-        "AllowedOrigins": [
-            "*"
-        ]
-    }
 {
     "type": "longrange",
     "name": "Active",

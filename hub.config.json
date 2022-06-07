@@ -48,23 +48,6 @@
 
 
     
-},
-{
-    "type": "biginteract",
-    "name": "Poised",
-    "showOnHubLoad": true,
-    "url": "https://raw.githubusercontent.com/CatonaO/test/main/Poi_int_for_UCSC_Browser.bb",
-    "options": {
-        "height": 200,
-        "displayMode": "arc",
-        "scoreScale": "fixed",
-        "scoreMax": 1,
-        "scoreMin": 0
-
-    }
-
-    
-}
-    
+}    
 
 ]
